@@ -1,4 +1,4 @@
-baseURL = "https://swapnild2111.github.io/dkca.github.io"
+baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
