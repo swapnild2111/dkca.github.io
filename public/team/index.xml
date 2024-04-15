@@ -2,59 +2,59 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Team on DKCA</title>
-    <link>/team/</link>
+    <link>http://localhost:1313/dkca.github.io/team/</link>
     <description>Recent content in Team on DKCA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 14 Apr 2024 21:36:14 +0000</lastBuildDate>
-    <atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/dkca.github.io/team/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Swapnil Deshpande</title>
-      <link>/team/swapnil-deshpande/</link>
+      <link>http://localhost:1313/dkca.github.io/team/swapnil-deshpande/</link>
       <pubDate>Sun, 14 Apr 2024 21:36:14 +0000</pubDate>
-      <guid>/team/swapnil-deshpande/</guid>
+      <guid>http://localhost:1313/dkca.github.io/team/swapnil-deshpande/</guid>
       <description>I have been playing carrom since my childhood, and competed in local city tournaments. I have been crazy about this game since it requires a lot of quick thinking, concentration and analytical thinking, and hones skills like planning ahead, sharpens the mind and helps you make better predictions.&#xA;I have represented Denmark in EuroCup 2019, 2023 and 3 times in the Poland Championship. I am aiming to resume playing, keep representing Denmark in national tournaments &amp;amp; get Denmark recognized in Carrom EuroCup.</description>
     </item>
     <item>
       <title>Yuvaraj Eswaramoorthy</title>
-      <link>/team/yuvaraj-eswaramoorthy/</link>
+      <link>http://localhost:1313/dkca.github.io/team/yuvaraj-eswaramoorthy/</link>
       <pubDate>Sun, 14 Apr 2024 21:36:14 +0000</pubDate>
-      <guid>/team/yuvaraj-eswaramoorthy/</guid>
+      <guid>http://localhost:1313/dkca.github.io/team/yuvaraj-eswaramoorthy/</guid>
       <description>I have been playing carrom since 2007 through various carrom tournaments. I was fortunate to get trained from International Carrom coach Arun Deshpande sir and would love to share the knowledge I gained with all carrom lovers.</description>
     </item>
     <item>
       <title>Antonio Sylvester</title>
-      <link>/team/antonio-sylvester/</link>
+      <link>http://localhost:1313/dkca.github.io/team/antonio-sylvester/</link>
       <pubDate>Sun, 14 Apr 2024 21:36:14 +0000</pubDate>
-      <guid>/team/antonio-sylvester/</guid>
+      <guid>http://localhost:1313/dkca.github.io/team/antonio-sylvester/</guid>
       <description></description>
     </item>
     <item>
       <title>Manas Dalvi</title>
-      <link>/team/manas-dalvi/</link>
+      <link>http://localhost:1313/dkca.github.io/team/manas-dalvi/</link>
       <pubDate>Sun, 14 Apr 2024 21:36:14 +0000</pubDate>
-      <guid>/team/manas-dalvi/</guid>
+      <guid>http://localhost:1313/dkca.github.io/team/manas-dalvi/</guid>
       <description></description>
     </item>
     <item>
       <title>Sampath Swami</title>
-      <link>/team/sampath-swami/</link>
+      <link>http://localhost:1313/dkca.github.io/team/sampath-swami/</link>
       <pubDate>Sun, 14 Apr 2024 21:36:14 +0000</pubDate>
-      <guid>/team/sampath-swami/</guid>
+      <guid>http://localhost:1313/dkca.github.io/team/sampath-swami/</guid>
       <description></description>
     </item>
     <item>
       <title>Tamara Ells</title>
-      <link>/team/tamara-ells/</link>
+      <link>http://localhost:1313/dkca.github.io/team/tamara-ells/</link>
       <pubDate>Thu, 20 Dec 2018 13:44:55 +1000</pubDate>
-      <guid>/team/tamara-ells/</guid>
+      <guid>http://localhost:1313/dkca.github.io/team/tamara-ells/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
     </item>
     <item>
       <title>Robert Johnson</title>
-      <link>/team/robert-johnson/</link>
+      <link>http://localhost:1313/dkca.github.io/team/robert-johnson/</link>
       <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
-      <guid>/team/robert-johnson/</guid>
+      <guid>http://localhost:1313/dkca.github.io/team/robert-johnson/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
     </item>
   </channel>

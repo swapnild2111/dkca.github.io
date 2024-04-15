@@ -1,8 +1,9 @@
-baseURL = "/"
+baseURL = "https://swapnild2111.github.io/dkca.github.io"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
 title = "DKCA"
+publishDir = "docs"
 
 [module]
   [module.hugoVersion]
