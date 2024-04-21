@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Github",
+        "link": "https://github.com/swapnild2111/dkca.github.io",
+        "image": "images/social/github.svg"
+    },
+    {
+        "name": "Facebook",
+        "link": "https://facebook.com/DKCarromAssociation",
+        "image": "images/social/facebook.svg"
+    },
+    {
+        "name": "WhatsApp",
+        "link": "https://chat.whatsapp.com/D2tRiCFvaOX0CAkCWmkSAS",
+        "image": "images/social/whatsapp.svg"
+    },
+    {
+        "name": "Messenger",
+        "link": "https://m.me/DKCarromAssociation",
+        "image": "images/social/messenger.svg"
+    },
+    {
+        "name": "Email",
+        "link": "mailto:carrom.denmark@gmail.com",
+        "image": "images/social/email.svg"
+    }
+]

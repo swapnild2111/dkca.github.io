@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Team on DKCA</title>
+    <link>/team/</link>
+    <description>Recent content in Team on DKCA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 14 Apr 2024 21:36:14 +0000</lastBuildDate>
+    <atom:link href="/team/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Swapnil Deshpande</title>
+      <link>/team/swapnil-deshpande/</link>
+      <pubDate>Sun, 14 Apr 2024 21:36:14 +0000</pubDate>
+      <guid>/team/swapnil-deshpande/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yuvaraj Eswaramoorthy</title>
+      <link>/team/yuvaraj-eswaramoorthy/</link>
+      <pubDate>Sun, 14 Apr 2024 21:36:14 +0000</pubDate>
+      <guid>/team/yuvaraj-eswaramoorthy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Antonio Sylvester</title>
+      <link>/team/antonio-sylvester/</link>
+      <pubDate>Sun, 14 Apr 2024 21:36:14 +0000</pubDate>
+      <guid>/team/antonio-sylvester/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Manas Dalvi</title>
+      <link>/team/manas-dalvi/</link>
+      <pubDate>Sun, 14 Apr 2024 21:36:14 +0000</pubDate>
+      <guid>/team/manas-dalvi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sampath Swami</title>
+      <link>/team/sampath-swami/</link>
+      <pubDate>Sun, 14 Apr 2024 21:36:14 +0000</pubDate>
+      <guid>/team/sampath-swami/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
