@@ -43,19 +43,5 @@
       <guid>/team/sampath-swami/</guid>
       <description></description>
     </item>
-    <item>
-      <title>Tamara Ells</title>
-      <link>/team/tamara-ells/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:55 +1000</pubDate>
-      <guid>/team/tamara-ells/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
-    </item>
-    <item>
-      <title>Robert Johnson</title>
-      <link>/team/robert-johnson/</link>
-      <pubDate>Thu, 20 Dec 2018 13:44:23 +1000</pubDate>
-      <guid>/team/robert-johnson/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
-    </item>
   </channel>
 </rss>

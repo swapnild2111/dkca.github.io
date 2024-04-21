@@ -1,7 +1,7 @@
 ---
 title: 'Programs'
 description: 'DKCA helps players through multiple programs throughout each season'
-intro_image: "images/illustrations/reading.svg"
+intro_image: "images/illustrations/disa_kids.jpg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---

@@ -8,7 +8,6 @@ If you have any questions or suggestions, feel free to get in touch with us. We 
 
 | Day      | Opening Hours |
 | -------- | ------------- |
-| Saturday | 14:00 - 16:00 |
-| Sunday   | 14:00 - 16:00 |
+| Monday   | 17:30 - 19:30 |
 
 We play at following address:

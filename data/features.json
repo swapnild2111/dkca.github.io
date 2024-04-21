@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Weekly Carrom Play",
+    "description": "Every week meet, learn game together & enhance our Carrom skills",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Play Tournaments",
+    "description": "With DKCA you can participate in National & International Tournaments",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Stay Tuned",
+    "description": "Through our multiple social media channels, we ensure to get you all Carrom updates in Europe",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
