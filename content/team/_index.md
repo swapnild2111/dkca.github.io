@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-We are group of carrom enthusiasts.
+We are group of carrom enthusiasts and doing our best to spread love for carrom!

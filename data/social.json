@@ -8,5 +8,20 @@
         "name": "Facebook",
         "link": "https://facebook.com/DKCarromAssociation",
         "image": "images/social/facebook.svg"
+    },
+    {
+        "name": "WhatsApp",
+        "link": "https://WhatsApp",
+        "image": "images/social/whatsapp.svg"
+    },
+    {
+        "name": "Messenger",
+        "link": "https://Messenger",
+        "image": "images/social/messenger.svg"
+    },
+    {
+        "name": "Email",
+        "link": "mailto:carrom.denmark@gmail.com",
+        "image": "images/social/email.svg"
     }
 ]

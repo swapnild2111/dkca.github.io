@@ -8,5 +8,3 @@ linkedinurl: "https://www.linkedin.com/"
 promoted: true
 weight: 2
 ---
-
-I have been playing carrom since 2007 through various carrom tournaments. I was fortunate to get trained from International Carrom coach Arun Deshpande sir and would love to share the knowledge I gained with all carrom lovers.

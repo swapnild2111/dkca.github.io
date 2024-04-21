@@ -6,4 +6,4 @@ draft: false
 weight: 6
 ---
 
-Denmark Carrom Association is dedicated to promoting the game of carrom and building a strong community of players in Denmark. We work closely with schools, community centers, and other organizations to introduce people to the game, organize events, and facilitate regular plays. Join us now to be a part of our outreach efforts and help us grow the carrom community in Denmark.
+DKCA is dedicated to promoting the game of carrom and building a strong community of players in Denmark. We work closely with schools, community centers, shopping malls and other organizations to introduce people to the game, organize events, and facilitate regular plays. Our events and workshops are designed for players of all ages and skill levels, and provide opportunities to learn, play, and connect with other carrom enthusiasts.

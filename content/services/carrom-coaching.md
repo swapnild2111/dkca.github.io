@@ -7,4 +7,4 @@ weight: 2
 
 ---
 
-If you're new to carrom or want to improve your game, Denmark Carrom Association offers training and coaching sessions to help you learn and develop your skills. Our team of experienced coaches will guide you through the rules of the game, teach you advanced techniques, and provide personalized feedback to help you improve. Join us now to become a better carrom player.
+If you're new to carrom or want to improve your game, on our weekly carrom sessions we provide coaching sessions to help you learn and develop your skills. Our team of experienced coaches will guide you through the rules of the game, teach you advanced techniques, and provide personalized feedback to help you improve.

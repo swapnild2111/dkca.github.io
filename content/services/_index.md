@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Programs
 
-DKCA helps players through multiple programs throughout each season.
+We are dedicated to help every individual to enhance their Carrom skills & creating platform to enable to everyone to participate in European Carrom tournaments.

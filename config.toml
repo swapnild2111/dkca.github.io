@@ -21,10 +21,10 @@ publishDir = "docs"
     show_services_button = true # show / hide the "view all services" button
 
   [params.logo]
-    mobile = "images/logo/logo-mobile.svg"
+    mobile = "images/logo/logo.png"
     mobile_height = "36px"
-    desktop = "images/logo/logo.svg"
-    desktop_height = "36px"
+    desktop = "images/logo/logo.png"
+    desktop_height = "72px"
     alt = "Denmark Carrom Association"
 
   [params.fonts]
@@ -67,14 +67,14 @@ publishDir = "docs"
     weight = 3
 
   [[menu.main]]
-    name = "Team & Players"
+    name = "Players"
     url = "/team/"
     weight = 4
 
-  [[menu.main]]
-    name = "What is Carrom?"
-    url = "/basics/"
-    weight = 5
+#  [[menu.main]]
+#    name = "Learn"
+#    url = "/basics/"
+#    weight = 5
 
   [[menu.main]]
     name = "Events"
