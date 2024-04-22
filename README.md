@@ -46,3 +46,5 @@ If facing `submodule url not found` error, refer: https://confluence.atlassian.c
 # Special recognization
 Thank you for Github theme: https://github.com/zerostaticthemes/hugo-serif-theme
 Integrating Facebook events: https://www.sociablekit.com/
+Icons: https://fontawesome.com/
+SVG: https://iconscout.com/

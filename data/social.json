@@ -23,5 +23,10 @@
         "name": "Email",
         "link": "mailto:carrom.denmark@gmail.com",
         "image": "images/social/email.svg"
+    },
+    {
+        "name": "SOL",
+        "link": "https://sol4.metapensiero.it/lit/club/7abfbacec8ed11eebfe46162688db8a6",
+        "image": "images/social/sol.svg"
     }
 ]
